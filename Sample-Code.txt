@@ -1,0 +1,46 @@
+Couple of snippets that are worth to keep saved
+Lest one forgets.
+
+/* 
+ * Logging Messages to Console for debugging purposes
+ * Search Log using Tag as a filter to find specfic messages
+ */
+import android.util.Log;
+String TAG = <tagName>
+Log.i(TAG, <messageToConsole>);
+
+===================================================================================================
+
+/*
+ * Given Button foo
+ * Add a listener to foo
+ */
+foo.setOnLongClickListener(
+	new Button.OnLongClickListener(){
+        public boolean onLongClick(View v){
+            // Do Stuff
+            return false;
+        }
+    }
+);
+
+===================================================================================================
+
+/*
+ * Gestures such as taps/swipes/scrolls/etc.
+ * Activity class implements GestureDetector.OnGestureListener,GestureDetector.OnDoubleTapListener
+ * Activity class contains global GestureDetectorCompat gestureDetector
+ */
+import android.view.MotionEvent;
+import android.view.GestureDetector;
+import android.support.v4.view.GestureDetectorCompat;
+onCreate(){
+	...
+	this.gestureDetector = new GestureDetectorCompat(this,this);
+	gestureDetector.setOnDoubleTapListener(this);
+	...
+}
+// Alt insert functions of gestures wanted.
+
+===================================================================================================
+

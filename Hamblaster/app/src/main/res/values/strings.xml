@@ -1,6 +1,0 @@
-<resources>
-    <string name="app_name">Hamblaster</string>
-    <string name="title_activity_main">MainActivity</string>
-    <string name="SignInTitle">Sign-In</string>
-    <string name="LogInButton">Log In</string>
-</resources>
