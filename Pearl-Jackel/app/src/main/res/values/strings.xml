@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Pearl-Jackel</string>
+    <string name="TextViewString">Do Something</string>
+    <string name="buttonString">Push Me!</string>
+</resources>
