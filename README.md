@@ -9,3 +9,5 @@ Project: **Emerald-Colt**: App that utilizes Fragments in an Activity. Very stup
 text-on-image app. 
 
 Project: **Jet-Thunder**: (Delete later) Learning about Detail Flow style activites.
+
+Project: **Coral-Snow**: Menu Toolbar interaction with toggable options.
