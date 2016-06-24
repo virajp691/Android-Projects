@@ -13,3 +13,5 @@ Project: **Jet-Thunder**: (Delete later) Learning about Detail Flow style activi
 Project: **Coral-Snow**: Menu Toolbar interaction with toggable options.
 
 Project: **Urban-Boa**: Transitions and animations
+
+Project: **Intent-Example**: Switching  between activities
