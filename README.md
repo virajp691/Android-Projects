@@ -15,3 +15,6 @@ Project: **Coral-Snow**: Menu Toolbar interaction with toggable options.
 Project: **Urban-Boa**: Transitions and animations
 
 Project: **Intent-Example**: Switching  between activities
+
+Project: **Broadcast Communitcation**: Communication between two different actitities. 
+Projects ReceiveBroadcast & SendBroadcast
